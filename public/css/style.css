@@ -1,0 +1,144 @@
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    #sign-up-form{
+        width: 80%;
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+    #sign-up-form label{
+        margin-bottom: 10px;
+    }
+    #view-todo label{
+        margin-bottom: 10px;
+        margin-right: 10px;
+    }
+    .col-2{
+        flex: 0 0 30.666667%;
+        max-width: 30.666667%;
+    }
+    h3{
+        font-size: 20px;
+    }
+    #action-col button{
+        margin-bottom: 5px;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    #sign-up-form{
+        width: 70%;
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+    .col-2{
+        flex: 0 0 30.666667%;
+        max-width: 30.666667%;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    #sign-up-form{
+        width: 50%;
+        margin: 0 auto;
+        margin-top: 80px;
+    }
+    .col-2{
+        flex: 0 0 16.666667%;
+        max-width: 16.666667%;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+}
+
+
+/* Global */
+.mylebel2{
+    color: #3498db;
+}
+p{
+    color: black;
+}
+#sign-up-form{
+    background-color: #2c3e50;
+    padding: 34px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}
+#sign-up-form label{
+    background-color: #34495e;
+    color: white;
+    border-radius: 5px;
+}
+h1, h2, h3, h4, h5, p, td, label, th {
+    font-family: 'Krub' !important;
+
+}
+h5, label{
+    color: black;
+}
+#username_text{
+    background-color: #576574;
+    border-radius: 5px;
+    padding: 7px;
+    text-align: center;
+    margin-top: 10px;
+}
+#site-logo{
+    background-color: #ee5253;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    color: black;
+}
+#todo-text{
+    background-color: #222f3e;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+}
+#page-content{
+    margin-top: 10px;
+}
+#view-todo label{
+    background-color: #34495e;
+    color: white;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+#modal-label{
+    background-color: grey;
+    padding: 5px;
+}
+.about-text{
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 100px;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* -- */
